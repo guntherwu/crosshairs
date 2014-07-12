@@ -1,0 +1,22 @@
+{
+    "name": "crosshairs",
+    "title": "Cross Hairs",
+    "version": "0.1.0",
+    "author": {
+        "name": "Wayne Boka",
+        "url": "http://github.com/guntherwu"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+    }],
+    "dependencies": {
+        "jquery": ">=1.1.2"
+    },
+    "description": "jQuery plugin to create a crosshair effect on an HTML table.",
+    "keywords": ["jQuery", "table", "crosshairs", "row", "column", "highlight"],
+    "bugs": "https://github.com/guntherwu/Crosshairs/issues",
+    "docs": "https://github.com/guntherwu/Crosshairs/wiki",
+    "download": "https://github.com/guntherwu/Crosshairs/archive/master.zip",
+    "demo": "http://jsfiddle.net/AmVNm/14/embedded/result/"
+}
