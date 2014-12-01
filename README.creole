@@ -1,4 +1,7 @@
 == Crosshairs ==
 
-
 jQuery plugin to create a crosshair effect on an HTML table
+
+=== Demo/API ===
+
+[[URL|http://wboka.github.io/crosshairs.html]]
